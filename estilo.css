@@ -10,3 +10,14 @@ p{
   font-size: 2rem;
   padding: 2rem;
 }
+
+h1 {
+  border-radius: 50%;
+  background-color: teal;
+  color: brown;
+  font-weight: 100;
+}
+
+a{
+  text-decoration: line-through;
+}
