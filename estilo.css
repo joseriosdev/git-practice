@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+  background-color: chocolate;
+  color: whitesmoke;
+  font-size: 2rem;
+  padding: 2rem;
+}
